@@ -1,8 +1,8 @@
 package code;
 
-import code.imp.AgencysImp;
-import code.imp.BlindDater1;
-import code.imp.BlindDater2;
+import code.one.imp.AgencysImp;
+import code.one.imp.BlindDater1;
+import code.one.imp.BlindDater2;
 
 /**
  * Created by qizhou on 19-1-7.
