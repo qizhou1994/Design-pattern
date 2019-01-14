@@ -7,7 +7,5 @@ package code.simple_code;
 public abstract  class Fruit {
 
 
-
-
     public abstract void fruitProperty();
 }
