@@ -54,14 +54,17 @@ three示例：则是将two的基础上，进一步做了一个统一去表示访
 
 
 ## 代理模式
-* [工厂模式](https://github.com/qizhou1994/Design-pattern/tree/master/代理模式/code)
+* [代理模式](https://github.com/qizhou1994/Design-pattern/tree/master/代理模式/code)
 `定义：为其他对象提供一种代理以控制对这个对象的访问`  
 在eg中就是通过proxy代理控制对RealSubject的访问
 
 ## 建造者模式
-* [工厂模式](https://github.com/qizhou1994/Design-pattern/tree/master/建造者模式/code)
+* [建造者模式](https://github.com/qizhou1994/Design-pattern/tree/master/建造者模式/code)
 `定义：将一个复杂对象的构建与他的表示分离，使得同样的构建过程可以创建不同的表示。`  
 在template中：Builder是建造者需要建造对象的接口。
 ConcreateBuilder是真正的建造者去实现建造对象的接口，且建造对象。
 Director在这里只是用于去通过建造者去建造对象，起指挥的作用。 
 
+## 观察者模式
+* [观察者模式](https://github.com/qizhou1994/Design-pattern/tree/master/观察者模式/code)
+`定义：一种一对多的依赖关系，让多个观察者对象同事监听摸一个主题对象。这个主题对象在状态发生变化时，会通知所有观察者对象，使他们能够自动更新自己`
