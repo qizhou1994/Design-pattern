@@ -68,3 +68,5 @@ Director在这里只是用于去通过建造者去建造对象，起指挥的作
 ## 观察者模式
 * [观察者模式](https://github.com/qizhou1994/Design-pattern/tree/master/观察者模式/code)
 `定义：一种一对多的依赖关系，让多个观察者对象同事监听摸一个主题对象。这个主题对象在状态发生变化时，会通知所有观察者对象，使他们能够自动更新自己`
+
+eventdelegation是事件委托
